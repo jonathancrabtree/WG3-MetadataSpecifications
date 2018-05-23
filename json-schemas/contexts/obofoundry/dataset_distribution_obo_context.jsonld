@@ -1,18 +1,18 @@
 {
   "@context": {
     "sdo": "https://schema.org/",
-    "DatasetDistribution": "sdo:DataDownload",
+    "DatasetDistribution": "obo:DataDownload[missing term]",
     "name": {
       "@id": "obo:IAO_0000590",
       "@type": "obo:IAO_0000300"
     },
     "description": {
-      "@id": "obo:description",
+      "@id": "obo:description[missing term]",
       "@type": "obo:IAO_0000300"
     },
     "storedIn": {
-      "@id": "sdo:includedInDataCatalog",
-      "@type": "sdo:DataCatalog"
+      "@id": "obo:includedInDataCatalog[missing term]",
+      "@type": "obo:DataCatalog[missing term]"
     },
     "licenses": "?:SWO_0000002",
     "version": "obo:IAO_0000129"

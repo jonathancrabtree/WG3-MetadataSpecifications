@@ -7,17 +7,17 @@
       "@type": "obo:IAO_0000300"
     },
     "description": {
-      "@id": "sdo:description",
+      "@id": "obo:description[missing term]",
       "@type": "obo:IAO_0000300"
     },
     "distributions": {
-      "@id": "sdo:distribution",
-      "type": "sdo:DataDownload"
+      "@id": "obo:distribution[missing term]",
+      "type": "obo:DataDownload[missing term]"
     },
     "primaryPublications": "obo:IAO_0000301",
     "citations": "obo:IAO_0000301",
-    "producedBy": "sdo:producer",
-    "creators": "sdo:creator",
+    "producedBy": "obo:not_available",
+    "creators": "obo:not_available",
     "licenses": "obo:SWO_0000002",
     "isAbout": "obo:IAO_0000136",
     "hasPart": "obo:BFO_0000051",
